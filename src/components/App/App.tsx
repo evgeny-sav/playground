@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
 import logo from '../../assets/logo.svg';
-import './App.scss';
+import './App.module.scss';
 import { AppProps } from './types';
 
 const App: FC<AppProps> = () => {
